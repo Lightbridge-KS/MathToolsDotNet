@@ -1,0 +1,45 @@
+@MathToolsDotNet.Api_HostAddress = http://localhost:5259
+
+### Add two numbers (5 + 3)
+POST {{MathToolsDotNet.Api_HostAddress}}/calculator/add
+Content-Type: application/json
+
+{
+  "a": 5,
+  "b": 3
+}
+
+###
+
+### Multiply two numbers (4 × 7)
+POST {{MathToolsDotNet.Api_HostAddress}}/calculator/multiply
+Content-Type: application/json
+
+{
+  "a": 4,
+  "b": 7
+}
+
+###
+
+### Add negative numbers (-10 + 25)
+POST {{MathToolsDotNet.Api_HostAddress}}/calculator/add
+Content-Type: application/json
+
+{
+  "a": -10,
+  "b": 25
+}
+
+###
+
+### Multiply with zero (100 × 0)
+POST {{MathToolsDotNet.Api_HostAddress}}/calculator/multiply
+Content-Type: application/json
+
+{
+  "a": 100,
+  "b": 0
+}
+
+###

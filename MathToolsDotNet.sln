@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathToolsDotNet.Core", "Mat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathToolsDotNet.CLI", "MathToolsDotNet.CLI\MathToolsDotNet.CLI.csproj", "{14E1D26D-FE51-4E96-AA15-F82850D15359}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathToolsDotNet.Api", "MathToolsDotNet.Api\MathToolsDotNet.Api.csproj", "{B0CE9ABD-C443-44CB-91A3-36CC15B9233E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,18 @@ Global
 		{14E1D26D-FE51-4E96-AA15-F82850D15359}.Release|x64.Build.0 = Release|Any CPU
 		{14E1D26D-FE51-4E96-AA15-F82850D15359}.Release|x86.ActiveCfg = Release|Any CPU
 		{14E1D26D-FE51-4E96-AA15-F82850D15359}.Release|x86.Build.0 = Release|Any CPU
+		{B0CE9ABD-C443-44CB-91A3-36CC15B9233E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0CE9ABD-C443-44CB-91A3-36CC15B9233E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0CE9ABD-C443-44CB-91A3-36CC15B9233E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B0CE9ABD-C443-44CB-91A3-36CC15B9233E}.Debug|x64.Build.0 = Debug|Any CPU
+		{B0CE9ABD-C443-44CB-91A3-36CC15B9233E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B0CE9ABD-C443-44CB-91A3-36CC15B9233E}.Debug|x86.Build.0 = Debug|Any CPU
+		{B0CE9ABD-C443-44CB-91A3-36CC15B9233E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0CE9ABD-C443-44CB-91A3-36CC15B9233E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0CE9ABD-C443-44CB-91A3-36CC15B9233E}.Release|x64.ActiveCfg = Release|Any CPU
+		{B0CE9ABD-C443-44CB-91A3-36CC15B9233E}.Release|x64.Build.0 = Release|Any CPU
+		{B0CE9ABD-C443-44CB-91A3-36CC15B9233E}.Release|x86.ActiveCfg = Release|Any CPU
+		{B0CE9ABD-C443-44CB-91A3-36CC15B9233E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
