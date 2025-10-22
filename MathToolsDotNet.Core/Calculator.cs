@@ -1,4 +1,4 @@
-﻿namespace MathTools.Core
+﻿namespace MathToolsDotNet.Core
 {
     public class Calculator
     {

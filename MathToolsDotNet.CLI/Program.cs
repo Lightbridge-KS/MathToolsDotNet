@@ -1,4 +1,4 @@
-﻿using MathTools.Core;
+﻿using MathToolsDotNet.Core;
 
 var calc = new Calculator();
 Console.WriteLine($"5 + 3 = {calc.Add(5, 3)}");

@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathTools.Core", "MathTools.Core\MathTools.Core.csproj", "{04D47AA8-4C5A-4F99-BCEE-3F863442649E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathToolsDotNet.Core", "MathToolsDotNet.Core\MathToolsDotNet.Core.csproj", "{04D47AA8-4C5A-4F99-BCEE-3F863442649E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathTools.CLI", "MathTools.CLI\MathTools.CLI.csproj", "{14E1D26D-FE51-4E96-AA15-F82850D15359}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathToolsDotNet.CLI", "MathToolsDotNet.CLI\MathToolsDotNet.CLI.csproj", "{14E1D26D-FE51-4E96-AA15-F82850D15359}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
